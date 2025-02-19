@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Sou uma aluna de Desenvolvimento de Software Multiplataformas na Fatec de Itapira, apaixonada por criar soluções inovadoras e aprender novas tecnologias. Adoro colaborar com outras pessoas e contribuir para projetos de código aberto.
+Sou aluna de Desenvolvimento de Software Multiplataformas na Fatec de Itapira, apaixonada por criar soluções inovadoras e aprender novas tecnologias. Adoro colaborar com outras pessoas e contribuir para projetos de código aberto.
 
 - 🌱 Atualmente, estou cursando o 1º Semestre
 - 👯 Estou procurando colaborar em novos projetos
